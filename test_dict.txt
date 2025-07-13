@@ -1,0 +1,76 @@
+# CTF 字典比对测试数据
+
+# Base64编码的常见词汇
+SGVsbG8gV29ybGQ=  # Hello World
+YWRtaW4=  # admin
+cGFzc3dvcmQ=  # password
+ZmxhZw==  # flag
+
+# 十六进制编码
+48656c6c6f20576f726c64  # Hello World
+61646d696e  # admin
+70617373776f7264  # password
+
+# ROT13编码
+Uryyb Jbeyq  # Hello World
+nqzva  # admin
+cnffjbeq  # password
+
+# ROT47编码
+w6==@ (@C=6  # Hello World
+25>:2  # admin
+A2DDH@C5  # password
+
+# Caesar密码 (移位3)
+Khoor Zruog  # Hello World
+dgplq  # admin
+sdvvzrug  # password
+
+# 编程相关词汇
+ZnVuY3Rpb24=  # function
+Y2xhc3M=  # class
+dmFyaWFibGU=  # variable
+
+# 网络协议词汇
+aHR0cA==  # http
+aHR0cHM=  # https
+ZnRw  # ftp
+
+# 加密算法词汇
+YWVz  # aes
+ZGVz  # des
+cnNh  # rsa
+
+# 文件格式词汇
+emlw  # zip
+dGFy  # tar
+cGRm  # pdf
+
+# 系统命令词汇
+bHM=  # ls
+ZGly  # dir
+Y2F0  # cat
+
+# 特殊模式
+QURNSU4=  # ADMIN
+dXNlcg==  # user
+c2VydmVy  # server
+
+# 标志格式
+RkxBR3t0ZXN0X2ZsYWd9  # FLAG{test_flag}
+Y3Rme3Rlc3RfY3RmfQ==  # ctf{test_ctf}
+
+# 混合内容
+VGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIHRoZSBsYXp5IGRvZy4=  # The quick brown fox jumps over the lazy dog.
+
+# 编程代码片段
+ZGVmIGhlbGxvX3dvcmxkKCk6CiAgICBwcmludCgiSGVsbG8gV29ybGQhIik=  # def hello_world(): print("Hello World!")
+
+# JSON数据
+eyJuYW1lIjogInRlc3QiLCAidmFsdWUiOiAxMjN9  # {"name": "test", "value": 123}
+
+# 网络配置
+aG9zdG5hbWU6IGxvY2FsaG9zdA==  # hostname: localhost
+
+# 最终标志
+RkxBR3tkaWN0aW9uYXJ5X21hdGNoaW5nX3dvcmtpbmdfcGVyZmVjdGx5fQ==  # FLAG{dictionary_matching_working_perfectly} 

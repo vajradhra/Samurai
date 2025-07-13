@@ -1,0 +1,12 @@
+这是一个全面的测试文件，包含各种编码数据：
+
+Base64编码: RkxBR3t0ZXN0X2ZsYWd9
+Base32编码: JBSWY3DPEBLW64TMMQQQ====
+十六进制编码: 464C41477B6865785F666C61677D
+二进制编码: 01000110010011000100000101000111
+十进制编码: 707665717123
+URL编码: %46%4C%41%47%7B%75%72%6C%5F%66%6C%61%67%7D
+Caesar密码 (移位3): KHOOR ZRUOG
+ROT47编码: u=28v
+反转文本: galF{esrever_galF}
+普通文本: FLAG{plain_text_flag} 

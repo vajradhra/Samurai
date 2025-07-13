@@ -1,0 +1,9 @@
+这是一个测试文件，包含一些编码数据：
+
+Base64编码的FLAG: RkxBR3t0ZXN0X2ZsYWd9
+
+十六进制编码: 464C41477B6865785F666C61677D
+
+Caesar密码 (移位3): KHOOR ZRUOG
+
+普通文本: FLAG{plain_text_flag} 

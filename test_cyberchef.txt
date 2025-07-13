@@ -1,0 +1,58 @@
+# CyberChef 解码器测试数据
+
+# Base45 编码
+Base45: 9A V$ 2
+
+# Base62 编码
+Base62: 1a2b3c4d5e6f
+
+# Base92 编码
+Base92: !"#$%&'()*+,-./0123456789
+
+# BCD 编码
+BCD: 12345678
+
+# HTML Entity 编码
+HTML: &lt;script&gt;alert(&quot;Hello&quot;)&lt;/script&gt;
+
+# Quoted Printable 编码
+QP: =48=65=6C=6C=6F=20=57=6F=72=6C=64
+
+# A1Z26 编码
+A1Z26: 8 5 12 12 15 23 15 18 12 4
+
+# Bacon Cipher 编码
+Bacon: AAAAA AAAAB AAABA AAABB AABAA
+
+# Cetacean Cipher 编码
+Cetacean: EEEEEEEEEEeeEeEEEEEEEEEEEEeeEeEEe EEEEEEEEEEeeEeEEEEEEEEEEEEeeEeEEe
+
+# Caret/M-decode 编码
+Caret: ^M^@^A^B^C
+
+# RC4 加密 (需要密钥)
+RC4: 0x1234567890ABCDEF
+
+# XXTEA 加密
+XXTEA: 0x1234567890ABCDEF1234567890ABCDEF
+
+# Bifid Cipher 编码
+Bifid: 1112131415
+
+# Caesar Box Cipher 编码
+CaesarBox: HELLOWORLD
+
+# Modhex 编码
+Modhex: cbdefghijklnrtuv
+
+# MIME 编码
+MIME: =?UTF-8?B?SGVsbG8gV29ybGQ=?=
+
+# MAC Address
+MAC: 00:11:22:33:44:55
+
+# UUID
+UUID: 550e8400-e29b-41d4-a716-446655440000
+
+# 测试标志
+FLAG{cyberchef_decoders_working} 

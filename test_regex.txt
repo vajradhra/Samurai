@@ -1,0 +1,10 @@
+Hello World!@#$%^&*()
+This is a test with mixed characters: 1234567890
+Some Chinese: 你好世界
+Some symbols: !@#$%^&*()_+-=[]{}|;':",./<>?
+Pure binary: 0101010101010101
+Mixed case: HelloWorld123
+Special chars: ñáéíóúü
+Empty spaces:     lots    of    spaces
+Base64: RkxBR3t0ZXN0X2ZsYWd9
+Hex: 464C41477B6865785F666C61677D 

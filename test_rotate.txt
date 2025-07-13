@@ -1,0 +1,9 @@
+这是一个轮流解码测试文件：
+
+多层Base64: Vm1wQ1J3PT0=
+多层十六进制: 34363443343134377B6865785F666C61677D
+多层URL编码: %34%36%34%43%34%31%34%37%7B%68%65%78%5F%66%6C%61%67%7D
+Caesar多层: NKQQT ZSXQJ
+ROT47多层: u=28v
+反转多层: galF{esrever_galF}
+最终明文: This is a secret message with flag information 
